@@ -17,7 +17,7 @@ li.nav-item:hover {
 }
 
 .jumbotron {
-  background-image: url(/images/img_lights.jpg);
+  background-image: url(/img_lights.jpg);
   background-size: cover;
   display: table;
   width: 100%;
@@ -85,7 +85,7 @@ h2 + p {
 }
 
 #team {
-  background-image: url(/images/photographer.jpg);
+  background-image: url(/photographer.jpg);
   background-size: cover;
   color: white;
   text-align: center;
